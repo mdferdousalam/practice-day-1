@@ -88,7 +88,28 @@ span{
 }
 
 
+.counter{
+    display: flex;
+    box-shadow: 5px 5px 15px gray;
+    margin-bottom: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+}
 
+#counter-item1{
+    width: 30%;
+    text-align: center;
+}
+#counter-item2{
+    width: 30%;
+    text-align: center;
+}
+
+#counter-item3{
+    width: 30%;
+    text-align: center;
+}
 
 
 
