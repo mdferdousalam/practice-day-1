@@ -51,6 +51,48 @@ span{
     font-weight: 400;
     font-size: 18px;
 }
+.recipie{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.recipie h1, p{
+    text-align: center;
+    }
+.recipie-item{
+    display: flex;
+    margin-top: 50px;
+}
+
+.item1{
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 3%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5%;
+}
+.item1 img{
+    padding-left: 20%;
+}
+
+.item2 img{
+    padding-left: 20%;
+}
+
+.item2{
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 3%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5%;
+}
+
+
+
+
+
+
+
 
 
 
