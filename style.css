@@ -1,3 +1,7 @@
+body{
+    margin: 0%;
+}
+
 span{
     color: orange;
 }
@@ -30,6 +34,26 @@ span{
     border-radius: 30px;
 }
 
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.me-description{
+    padding: 30px 40px;
+    text-align: justify;
+}
+
+.me-description p{
+    font-family: 'Courier New',;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
 .footer{
     background-color: black;
     color: azure;
@@ -37,3 +61,4 @@ span{
     padding-top: 30px;
     padding-bottom: 100px;
 }
+
